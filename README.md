@@ -54,7 +54,7 @@ Desenvolver um robô seguidor de linha com ESP-32, capaz de mapear pistas, ident
 - **Disseminação dos resultados** em publicações e eventos científicos, contribuindo para o avanço da pesquisa em robótica competitiva e industrial.  
 </p>
 
-## Nossos desenvolvedores
+## Nossos pesquisadores
 <table>
   <tr>
     <td align="center">
